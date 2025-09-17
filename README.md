@@ -3,8 +3,9 @@
 🚀 **Information Technology Technician | AI Consultant | DevOps Enthusiast**  
 📍 Nairobi, Kenya  
 
-I’m an **IT professional** with experience in software development, IT infrastructure management, and AI consulting.  
-I thrive at the intersection of **development, operations, and innovation**, helping organizations implement secure, scalable, and automated solutions.  
+Hi, I'm Rotich Elias ! a purpose-driven technologist, DevOps Engineer, and advocate passionate about building systems, communities, and conversations that matter.
+In Tech: I specialize in DevOps engineering, with skills in CI/CD pipelines, Docker, Github Actions, and cloud-based systems. My focus is on creating scalable, user-focused solutions that bridge technology with real-world impact.
+Let's Build Together: If you're working in tech, education, or youth empowerment, or seeking a collaborative partner, DevOps engineer let's connect and create impact. 
 
 ---
 
